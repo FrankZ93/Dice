@@ -576,6 +576,7 @@ extern inline void init2(std::string&);
 extern inline void COC6D(std::string&);
 extern inline void COC6(std::string&, int);
 extern inline void COC7D(std::string&);
+extern inline void COCR(std::string&);
 extern inline void COC7(std::string&, int);
 extern inline void DND(std::string&, int);
 extern inline void LongInsane(std::string&);
